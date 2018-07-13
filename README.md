@@ -11,15 +11,15 @@ DO MUST NOT USE THIS FOR ANY ILLEGAL ACT. I AM NOT RESPONSIBLE FOR ANY DAMAGE TH
 - packages from requirements.txt
 
 Install python packages:
-''' sh
+``` sh
 pip install -f requirements.txt
-'''
+```
 
 ## Usage
 
-''' sh
+``` sh
 python WebcamTest.py [-o OUTPUT_FILE] [-f FPS_COUNT] [-c CODEC]
-'''
+```
 
 By default it logs to the file: log.avi with 60 fps and MJPG Codec.
 
