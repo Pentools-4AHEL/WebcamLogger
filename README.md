@@ -1,7 +1,7 @@
 # WebcamLogger
 
 This is a little python script to log your webcam activity in the background.
-It's written for windows and only works if have at least one webcam ;)
+It's written for windows and only works if you have at least one webcam ;)
 
 DO MUST NOT USE THIS FOR ANY ILLEGAL ACT. I AM NOT RESPONSIBLE FOR ANY DAMAGE THAT IS CAUSED BY THIS SCRIPT!
 
